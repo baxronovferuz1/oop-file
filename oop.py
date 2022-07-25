@@ -2,7 +2,8 @@ class Weapon:
     def __init__(self, name, price) -> None:
         self._name = name
         self._price = price
-
+# i'll do my best
+# i'll kill it
 
 class Person:
     def __init__(self, name, age, balance) -> None:
